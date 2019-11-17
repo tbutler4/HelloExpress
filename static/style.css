@@ -1,0 +1,43 @@
+*{
+	outline: 1px solid gold;
+	margin: 0px;
+}
+.contain{
+	/*display: inline-block;*/
+
+	width: 1400px;
+	height: 800px;
+}
+.contain .header{
+	background: purple;
+	width: 1400px;
+	font-size: 100px;
+	text-align: center;
+}
+.contain .cne{
+	text-align: center;
+	background: blue;
+}
+.contain .cwo{
+	text-align: center;
+	background: red;
+}
+.contain .chree{
+	text-align: center;
+	background: green;
+}
+.container{
+	width: 1400px;
+	height: 800px;
+	background: black;
+
+}
+.container .top{
+	background: green;
+	padding-top: 100px;
+}
+.container .bottom{
+	background: red;
+	margin-top: 100px;
+	padding-top: 100px;
+}
